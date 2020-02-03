@@ -17,5 +17,4 @@ Requirements
   - pip3 install face_recognition
   - pip install Pillow==2.2.2
 5. Edit your own code in Visual Studio Code
-6 . Run your program
-7. Happy Coding
+6. Happy Coding
