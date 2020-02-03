@@ -1,7 +1,7 @@
 import face_recognition
 from PIL import Image, ImageDraw
 
-image = face_recognition.load_image_file ("/Desktop/ProjectCv2/faceRecognation/dataImage/a.jpg")
+image = face_recognition.load_image_file ("/Desktop/ProjectCv2/faceRecognation/dataImage/a.jpg") #change with your own directory
 face_locations = face_recognition.face_locations(image)
 face_encodings = face_recognition.face_encodings(image, face_locations)
 
