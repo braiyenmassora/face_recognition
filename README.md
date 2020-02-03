@@ -1,2 +1,2 @@
 # face_recognition
-simple face detection 
+simple face detection using python
