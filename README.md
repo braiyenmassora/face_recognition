@@ -1,4 +1,4 @@
-# face_detection
+# imagefacedetection
 simple face detection using python
 
 Installation
